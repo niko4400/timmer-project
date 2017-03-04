@@ -1,0 +1,56 @@
+
+.panel-heading.head-panel {
+    background-color:dodgerblue;
+    color:whitesmoke;
+}
+
+.box{
+    height: 75vh;
+    border-color: #2a88bd;
+
+}
+
+
+
+.panel-project {
+    width:100%;
+    padding:10px;
+    border-bottom:dotted ;
+    border-color: #2a88bd;
+}
+.success {
+    width:100%;
+    padding:10px;
+    border-bottom:dotted ;
+    border-color: #2a88bd;
+    background-color: #dff0d8;
+    color: #3c763d;
+
+}
+
+.display-Lato {
+    font-family: 'Font Name', serif;
+}
+
+.display-time {
+    font-family: 'Lato',serif;
+    font-size: 250%;
+    text-align: center;
+}
+
+.pause-button {
+    background-color:#EC8C37;
+}
+
+.pause-button:hover {
+    background-color:#CC6C17;
+}
+
+.stop-button {
+    background-color:#EB373D;
+}
+
+.stop-button:hover {
+    background-color:#CB171D;
+}
+
